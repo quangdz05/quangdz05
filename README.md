@@ -1,27 +1,64 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quang+Dương!;" alt="Typing Greeting" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quang+Dương!;" />
-</h1>
-<!--animated coding gif -->
-Here are some ideas to get you started:
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<br/>
 
-⭐💙☕😊📺🔑🙋‍♂️
-- 🔭 I’m currently working on **VJU/VNU**
-- 👩🏻‍🎓 I’m currently learning **Flutter**
-- 🎨 I’m looking for help with **Idea**
-- 💭 Ask me about **Technology and Personal Development**
-- 📫 How to reach me: **vanquangg05@gmail.com**
-- 🌷 Pronouns: He/Him
-- ⚡ Fun fact: *I am a Beginner*
+<div align="center">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  
+  <div align="left">
+    <h3> <img width="30" src="https://em-content.zobj.net/source/samsung/260/dizzy_1f4ab.png"> About Me </h3>
+    <p>
+      <em>Hi everyone! I am a passionate developer with a strong interest in technology and mobile applications. Always eager to learn new things and collaborate on exciting projects!</em>
+    </p>
+    
+    - 🔭 I’m currently working on **VJU/VNU**
+    - 👩🏻‍🎓 I’m currently learning **Flutter**
+    - 🎨 I’m looking for help with **New Ideas**
+    - 💭 Ask me about **Technology and Personal Development**
+    - 📫 How to reach me: **vanquangg05@gmail.com**
+    - ⚡ Fun fact: *I am a Beginner but a fast learner!*
+  </div>
+</div>
 
-# <img width="40" src="https://em-content.zobj.net/source/samsung/260/dizzy_1f4ab.png">About Me:
+<br/>
 
+<div align="center">
+  <h3>🌐 Connect with me:</h3>
+  <a href="mailto:vanquangg05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+</div>
 
-## 🌐 Socials:
+<br/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <br/>
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
+    <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515" alt="PythonAnywhere">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GithubPages">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
+    <br/>
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+  </p>
+</div>
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=Toandz1125&icon=7&color=3)](https://github.com/quangdz05)
+<div align="center">
+  <h3>📈 Profile Views</h3>
+  <a href="https://github.com/quangdz05" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=quangdz05&icon=7&color=3" alt="Profile Views" />
+  </a>
+</div>
