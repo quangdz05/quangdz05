@@ -27,8 +27,7 @@
 <div align="center">
   <h3>🌐 Connect with me:</h3>
   <a href="mailto:vanquangg05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/thong.lai.3701"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
 </div>
 
 <br/>
