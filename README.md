@@ -47,7 +47,3 @@
 
 ---
 
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=quangdz05&icon=7&color=3" alt="Profile Views" />
-  </a>
-</div>
