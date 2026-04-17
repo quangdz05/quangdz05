@@ -14,12 +14,8 @@
     </p>
     <div align="center">
   <h3>📺 Featured Videos</h3>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank">
+  <a href="https://www.youtube.com/watch?v=77QHh08EKDw" target="_blank">
     <img width="48%" src="https://ytcards.demolab.com/?id=VIDEO_ID_1&title=TITLE_1&lang=vi&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&border_radius=5" alt="Video 1"/>
-  </a>
-  
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
-    <img width="48%" src="https://ytcards.demolab.com/?id=VIDEO_ID_2&title=TITLE_2&lang=vi&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&border_radius=5" alt="Video 2"/>
   </a>
 </div>
     
