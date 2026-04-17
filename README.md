@@ -48,8 +48,6 @@
 ---
 
 <div align="center">
-  <h3>📈 Profile Views</h3>
-  <a href="https://github.com/quangdz05" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=quangdz05&icon=7&color=3" alt="Profile Views" />
   </a>
 </div>
